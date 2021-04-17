@@ -1,4 +1,5 @@
-import Header from './components/Header'
+import {Component} from 'react'
+import Header from './components/Header';
 
 function App() {
 
@@ -9,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export  default App;
